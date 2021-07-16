@@ -1,2 +1,8 @@
 .ipynb_checkpoints
-data
+
+data/*.npy
+data/test_text
+data/test_variants
+data/training_text
+data/training_variants
+data/treino_processado.csv
