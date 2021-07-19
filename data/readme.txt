@@ -1,4 +1,4 @@
-Devido ao tamanho do dataset não é possível upar no github.
+Devido ao tamanho do dataset, é sugerido baixar o mesmo do link abaixo.
 
 Baixar no Kaggle: https://www.kaggle.com/c/msk-redefining-cancer-treatment
 
